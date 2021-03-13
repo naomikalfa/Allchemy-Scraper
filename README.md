@@ -1,2 +1,2 @@
 # allchemy-scraper
-A small Selenium web scraper in Python that crawls allchemy.net and stores the chemical reactions in a .csv table.
+A small web scraper in Python to practice working with Selenium. This scraper traverses through allchemy.net, opening each molecule graph and storing the relevant data in a .csv table.
